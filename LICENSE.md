@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with instant Audacity for macOS LUT | EQ + text-animation, the #1 lut. Includes EQ and text-animation for a smoother and more creative editing workflow.
 
 
 
